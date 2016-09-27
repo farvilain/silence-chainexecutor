@@ -1,0 +1,18 @@
+{
+  "name": "silence-chainexecutor",
+  "version": "0.0.0",
+  "description": "Provide middleware execution",
+  "author": {
+    "name": "Francois A.R. Vilain",
+    "email": "far.vilain@gmail.com"
+  },
+  "license": "All Right Reserved",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:farvilain/silence-chainexecutor.git"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "exit 1"
+  }
+}
