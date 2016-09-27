@@ -14,5 +14,8 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "exit 1"
+  },
+  "dependencies": {
+    "silence-log": "0.0.4"
   }
 }
