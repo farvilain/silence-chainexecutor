@@ -1,6 +1,6 @@
 {
   "name": "silence-chainexecutor",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Provide middleware execution",
   "author": {
     "name": "Francois A.R. Vilain",
